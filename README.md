@@ -4,7 +4,7 @@ Este projeto extensionista visa abordar a problemática da conservação adequad
 Como Rodar o Projeto:
 
 1-Baixe e instale o Cisco Packet Tracer em seu computador.
-2=Abra o arquivo ProjetoDisciplina.pkt usando o Cisco Packet Tracer.
-3=Execute o código main dentro do microcontrolador para iniciar a simulação do sistema de monitoramento e controle de temperatura.
+2-Abra o arquivo ProjetoDisciplina.pkt usando o Cisco Packet Tracer.
+3-Execute o código main dentro do microcontrolador para iniciar a simulação do sistema de monitoramento e controle de temperatura.
 
 Este projeto utiliza a simulação no Cisco Packet Tracer para criar um ambiente controlado, demonstrando a aplicação prática de Internet das Coisas (IoT) no monitoramento e controle de condições ambientais críticas.
